@@ -1,8 +1,12 @@
 {
   "apps": [
     {
-      "name": "XuperTV - (TV)",
-      "apkUrl": "https://www.dropbox.com/scl/fi/upcehyahwfbibmdy8wwng/XUP3R_TV_PRO_BUSQUEDA_CORREGIDA.apk?rlkey=tieoexoirnduwwk0vtgdcxx8a&st=amtzka9b&dl=1"
+      "name": "XuperTV+DEPORTES-SIN_CUENTA (TV)",
+      "apkUrl": "https://www.dropbox.com/scl/fi/5edd82sofe5l3h7xu2riv/XUP3R-TV-SP0RTS_SIN_CUENTA.apk?rlkey=86j7mnd9ln9nvsepx9obt82ke&st=phv5p197&dl=1"
+    },
+    {
+      "name": "XuperTV-CON_CUENTA (TV)",
+      "apkUrl": "https://www.dropbox.com/scl/fi/j98qomg15o2yuo7pqm5eb/FCTV33-TV-3.0.323-sin-update.apk?rlkey=79ueh38794p1b7x5iy5ul931r&st=svj7drae&dl=1"
     },
     {
       "name": "FCTV33 - (TV)",
